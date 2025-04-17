@@ -1,0 +1,10 @@
+Dete2D/lib/checkpoint/*
+!Dete2D/lib/checkpoint/.gitkeep
+
+models/smpl/*
+!models/smpl/.gitkeep
+
+models/smplx/*
+!models/smplx/.gitkeep
+
+.idea/
