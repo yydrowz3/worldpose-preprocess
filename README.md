@@ -1,6 +1,8 @@
 
 # WorldPose Dataset Pre-processing Tools
 
+![2D_projection](./pic/visualization.png)
+
 > Note that this is not an official preprocessing tool for the WorldPose dataset.  
 > This repo is created for a more easy way of running 3D human pose estimation pipelines. 
 
