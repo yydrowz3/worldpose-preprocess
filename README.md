@@ -136,3 +136,8 @@ The final output will be saved in current directory as:
 - `wp_hr_conf_cam_source_final.pkl`
 - `wp_no_conf_cam_source_final.pkl`
 
+
+
+## LICENSE
+
+This preprocessing tool is available under MIT License. Please see LICENSE for more information.
